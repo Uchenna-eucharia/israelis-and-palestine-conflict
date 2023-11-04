@@ -1,6 +1,6 @@
 # Israelis-and-Palestine-conflict
 ### Table of content
-- [Project overview](project-overview)
+- [Project Overview](project-overview)
 - [Data Source](data-source)
 - [Tools used](tools-used)
 - [Data cleaning/preparation](data-cleaning/preparation)
