@@ -1,11 +1,11 @@
 # Israelis-and-Palestine-conflict
 ### Table of content
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools used](tools-used)
-- [Data cleaning/preparation](data-cleaning/preparation)
-- [Exploratiory data analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools used](#tools-used)
+- [Data cleaning/preparation](#data-cleaning/preparation)
+- [Exploratiory data analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview
 This data analysis project aims to provide insight into the conflict between Palestine and Israel from the year 2000 -2021
@@ -22,11 +22,11 @@ injuries and fatalities data from both sides from 2000 - 2021. It has a year, mo
 ### Data cleaning/preparation
 In the initial data preparation phase, we performed the following:
 
-1 Data loading and inspection
+1. Data loading and inspection
 
-2 Handling missing values
+2. Handling missing values
 
-3 cleaning and formatting
+3. cleaning and formatting
 
 ### Exploratory data analysis
 EDA involves exploring the data to answer key questions such as
@@ -37,7 +37,7 @@ EDA involves exploring the data to answer key questions such as
 
 ### Data analysis
 
-  ` df["Palestinians Casualties"] = (df["Palestinians Killed"]+ df["Palestinians Injuries"])
-df["Israelis Casualties"] = (df["Israelis Killed"]+ df["Israelis Injuries"])`
+  ``` df["Palestinians Casualties"] = (df["Palestinians Killed"]+ df["Palestinians Injuries"])
+df["Israelis Casualties"] = (df["Israelis Killed"]+ df["Israelis Injuries"]) ```
 
 
