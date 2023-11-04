@@ -34,11 +34,13 @@ EDA involves exploring the data to answer key questions such as
 - Total casualties
 - Total deaths
 - Total injuries
-- Total killed by years of both country
+- Total killed by years of both countries
 
 ### Data analysis
 
-  ``` df["Palestinians Casualties"] = (df["Palestinians Killed"]+ df["Palestinians Injuries"])
-df["Israelis Casualties"] = (df["Israelis Killed"]+ df["Israelis Injuries"]) ```
+  ```
+df["Palestinians Casualties"] = (df["Palestinians Killed"]+ df["Palestinians Injuries"])
+df["Israelis Casualties"] = (df["Israelis Killed"]+ df["Israelis Injuries"])
+ ```
 
 
