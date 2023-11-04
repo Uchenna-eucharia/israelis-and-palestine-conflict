@@ -9,7 +9,8 @@
 
 ### Project Overview
 This data analysis project aims to provide insight into the conflict between Palestine and Israel from the year 2000 -2021
-![new 3 isreal](https://github.com/Uchenna-eucharia/israelis-and-palestine-conflict/assets/55831056/e7cd05ff-60bb-4faf-9a80-984b5b10a5d3)
+
+![Palestine israel dashboard](https://github.com/Uchenna-eucharia/israelis-and-palestine-conflict/assets/55831056/84f52cd3-1e38-420e-9b59-f3f4556ed08b)
 
 ### Data Source
 Palestine body count: The primary dataset used for this analysis is the "Palestine body count.csv" file containing detailed information about 
